@@ -6,9 +6,9 @@ set showcmd
 set ttimeoutlen=5
 
 syntax enable
-colorscheme blue
+colorscheme simple
 
-set keymap=russian-jcuken
+set keymap=russian-jcukenwin
 map <C-^> a<C-^><Esc>
 set iminsert=0
 map <C-f> "+
